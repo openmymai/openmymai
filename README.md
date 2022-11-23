@@ -4,6 +4,7 @@
 
 - 🎓 I’m Sirisak Chantanate, **Software Developer and Cloud Solution Architect** (Specializing in **Data Science, Full Stack Development**) pursuing my Bachelor in Computer Engineering.
 - 🌱 I am really enthusiastic about learning technology. In 2018, I learnt **ReactJS, NextJS**. In 2020, I learnt **Golang, Rust**. In 2021 till now, I learn **AWS, Azure, Google Cloud Platform**. I also got start with $\textcolor{blue}{freelancing}$.
+- ⬆️ Build, deploy, and scale the applicaitons using Microservices built with Node, React, Docker and Kubernetes
 
 # 🏅 Certifications
 
