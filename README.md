@@ -3,7 +3,6 @@
 # 🚀 About me
 
 - 🎓 I’m Sirisak Chantanate, **Software Engineer and Cloud Solution Architect** (Specializing in **Data Science, Full Stack Development**) pursuing my Bachelor in Computer Engineering.
-- 👨‍💻 I tried my first job by asking many companies to interview, I got some tests, I got some IQ tests but no any companies accepted me. Until I tried to contact **Datacraft-Asia Country Service Manager** many times and first I told him that **I had a low GPA (Passed by)**, but I have a very **high responsible**. 7 years later I got **Cisco CCIE R&S #18148.**
 - 🌱 I am really enthusiastic about learning technology. In 2018, I learnt **ReactJS, NextJS**. In 2020, I learnt **Golang, Rust**. In 2021 till now, I learn **AWS, Azure, Google Cloud Platform**.
 - ⬆️ Build, deploy, and scale the applicaitons using **Microservices built with Node, React, Docker and Kubernetes.**
 - 🏆 Finally, I will build my own business. Build with Machine Learning. **Helping people from suffering by Nutrigenomics 🧬🧬🧬🧬.**
