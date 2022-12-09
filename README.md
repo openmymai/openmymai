@@ -9,9 +9,9 @@
 
 # 🏅 Certifications
 
+- **Azure Fundamentals**
 - **AWS Cloud Practitioner**
 - **AWS Solution Architect Professional**
-- **Azure Fundamentals**
 - **CCIE R&S #18148**
 
 ![microsoft-certified-azure-fundamentals (2)](https://user-images.githubusercontent.com/15844801/197902026-ca55581e-ea5d-4881-92ce-0750bfef912f.png)
