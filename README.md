@@ -6,6 +6,8 @@
 - 🌱 I am really enthusiastic about learning technology. In 2018, I learnt **ReactJS, NextJS**. In 2020, I learnt **Rust**. In 2021 till now, I learn **AWS, Azure**.
 - ⬆️ Build, deploy, and scale the applicaitons using **Microservices built with Node, React, Docker and Kubernetes.**
 
+#### If you would like to thank me, you can [buy me a coffee](https://www.buymeacoffee.com/maicmi)
+
 # 🏅 Certifications
 
 - **Azure Fundamentals**
@@ -21,3 +23,4 @@
 ![aws-partner-sales-accreditation-business (1)](https://user-images.githubusercontent.com/15844801/197902076-ed679bf5-f2a1-43ee-b368-ac57cbdf5152.png)
 ![aws-partner-accreditation-technical (2)](https://user-images.githubusercontent.com/15844801/197902095-4fe9aa2a-2aac-491f-8c7b-265e9bef4ece.png)
 ![migration-ambassador-foundations-business-2022 (2)](https://user-images.githubusercontent.com/15844801/197902097-fc08f9ab-ef46-4c8e-a211-d88c301e7bf7.png)
+
