@@ -1,5 +1,8 @@
 # Hi there 👋
 
+# Is it worth learning how to code for starting up?
+### So quickly learn and make it true.
+
 # 🚀 About me
 
 - 🎓 I’m Sirisak Chantanate, **Software Engineer** (Specializing in **Full Stack Development**) pursuing my Bachelor in Computer Engineering.
