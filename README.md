@@ -12,3 +12,7 @@
 
 
 ### Let's play game [🎮](https://openmymai.github.io/seahorse.html)
+
+<a href="https://www.buymeacoffee.com/maicmi">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="25">
+</a>
