@@ -1,15 +1,17 @@
-Hi, I'm Sirisak Chantanate 👋
+### Hi there, I'm Sirisak Chantanate 👋
 
-A passionate Software Engineer on a mission to make AI accessible and genuinely useful.
+I build intelligent, scalable systems from the ground up. With over 20 years of experience that began at the core network layer (CCIE #18148), my career has been dedicated to architecting and implementing robust, large-scale solutions.
 
-My journey through tech, from full-stack web development to exploring low-level languages like Rust, has led me to my true passion: **bringing AI to life through practical applications.**
+Today, I leverage that deep foundation to build modern, AI-powered applications. My expertise spans:
+- **Cloud & DevOps:** Designing asynchronous, event-driven systems on microservices (Docker, Kubernetes) for both Enterprise and Service Provider environments.
+- **Full-Stack Development:** Creating user-facing applications with React and Node.js.
+- **AI & Data Science:** Developing high-impact business intelligence solutions using advanced statistical algorithms and machine learning frameworks like TensorFlow.
 
-🚀 This GitHub is my digital workshop. My goal is to build and share open-source **AI-powered web apps** and **automation tools** that are not only powerful but also easy for others to use and adapt.
-
-Find a project that sparks your interest? Feel free to use it! And if it helps you out, a coffee would be a wonderful way to show your support and fuel the next creation. 🤓
-
+My current focus is on channeling this experience into creating open-source **AI-powered web apps** and **AI automation tools** that others can use and learn from.
 
 ---
 
-#### 🌱 Support My Work
-If you find my open-source projects valuable, please consider **[sponsoring me on GitHub](https://github.com/sponsors/openmymai)**. Your support allows me to dedicate more time to building and maintaining these tools for the community.
+#### 🌱 Let's Build Together
+This GitHub is where I share my creations. If my work inspires you or helps you in your own projects, I'd be incredibly grateful for your support.
+
+You can **[sponsor my work through GitHub](https://github.com/sponsors/openmymai)**. Every contribution, big or small, fuels my ability to create more and better tools for the open-source community.
