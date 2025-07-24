@@ -1,14 +1,12 @@
-# Hi there 👋
+Hi, I'm Sirisak Chantanate 👋
 
-# Is it worth learning how to code for starting up?
-### So quickly learn and make it true.
+A passionate Software Engineer on a mission to make AI accessible and genuinely useful.
 
-# 🚀 About me
+My journey through tech, from full-stack web development to exploring low-level languages like Rust, has led me to my true passion: **bringing AI to life through practical applications.**
 
-- 🎓 I’m Sirisak Chantanate, **Software Engineer** (Specializing in **Full Stack Development**) pursuing my Bachelor in Computer Engineering.
-- 🌱 I am really enthusiastic about learning technology. In 2018, I learnt **ReactJS, NextJS**. In 2020, I learnt **Rust**. In 2021 till now, I learn **Machine Learning, Deep Learning, Solana Web3 Infrastructure Development**.
-- 📚 Developing Onchain Program. 🤓
-- 🏆 100% success is from 0.1% everyday 1,000 days
+🚀 This GitHub is my digital workshop. My goal is to build and share open-source **AI-powered web apps** and **automation tools** that are not only powerful but also easy for others to use and adapt.
+
+Find a project that sparks your interest? Feel free to use it! And if it helps you out, a coffee would be a wonderful way to show your support and fuel the next creation. 🤓
 
 
 <a href="https://www.buymeacoffee.com/maicmi">
